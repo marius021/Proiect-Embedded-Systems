@@ -16,3 +16,7 @@ prin aprinderea unui led de culoare roșie.
  Dacă a fost introdusă parolă greșită de 3 ori consecutiv această este asociată cu o încercare ilegală 
 de a accesa sistemul și este semnalată printr-un semnal sonor cât și prin notificarea deținătorului 
 printr-un mesaj SMS.
+ Pentru elaborarea proiectului am utilizat o placa de dezvoltare Raspberry Pi 4 Model B, micro servo motor, macheta
+din lemn, tastatura matriciala 4x3, senzor de amprenta, buzzer, Led-uri, fire, breadboard ( link cu fiecare componenta in antetul fisierului ).
+ Programul ruleaza in bucla continua verificand daca a fost apasat touchpad-ul din interior folosind metoda de 'polling'. In cazul in care butonul a fost apasat usa se va deschide pentru 5 secunde, timp in care sistemul nu mai raspunde la alte comenzi.
+ 
