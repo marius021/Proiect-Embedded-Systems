@@ -1,5 +1,4 @@
 # Proiect-Embedded-Systems
-Sistem de acces inteligent
 
 Proiectul Sistem de Access Inteligent urmărește îmbunătățirea securității prin automatizarea unui 
 sistem ce este responsabil cu accesul într-o locuință dar aplicațiile pot fii extinse acesta putând fii 
@@ -16,4 +15,4 @@ de culoare verde care se aprinde de asemenea când este deschisă ușa din inter
 prin aprinderea unui led de culoare roșie.
  Dacă a fost introdusă parolă greșită de 3 ori consecutiv această este asociată cu o încercare ilegală 
 de a accesa sistemul și este semnalată printr-un semnal sonor cât și prin notificarea deținătorului 
-printr-un mesaj SMS
+printr-un mesaj SMS.
